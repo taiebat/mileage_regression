@@ -16,4 +16,3 @@ Your report must be:
 *   Include a first paragraph executive summary.
 
 
-# mileage_regression
